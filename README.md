@@ -1,2 +1,2 @@
 # TexnologiaLogismikou
-Project ergastiriou
+Project
