@@ -1,2 +1,2 @@
 # TexnologiaLogismikou
-Project
+Project gia to ergastirio
